@@ -1264,3 +1264,11 @@ img.mfp-img {
 					margin: 0;
 	}
 }
+
+.centre{
+	width: 200px;
+	margin: auto;
+}
+#contribute{
+	padding: 5%;
+}
